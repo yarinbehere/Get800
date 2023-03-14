@@ -1,0 +1,2860 @@
+{
+"A":[
+ {
+  "word": "Abate",
+  "translate": "לְשַׁכֵּך"
+ },
+ {
+  "word": "Abdicate",
+  "translate": "לְהִתְפַּטֵר"
+ },
+ {
+  "word": "Aberration",
+  "translate": "סְטִיָה"
+ },
+ {
+  "word": "Abhor",
+  "translate": "לְתַעֵב"
+ },
+ {
+  "word": "Abjure",
+  "translate": "לְהִתְכַּחֵשׁ"
+ },
+ {
+  "word": "Abrasive",
+  "translate": "מְשַׁפשֵׁף"
+ },
+ {
+  "word": "Abstain",
+  "translate": "לְהִתְנַזֵר"
+ },
+ {
+  "word": "Abstract",
+  "translate": "תַקצִיר"
+ },
+ {
+  "word": "Abstruse",
+  "translate": "קָשֶׁה לְהַבָנָה"
+ },
+ {
+  "word": "Acclaim",
+  "translate": "תְשׁוּאוֹת"
+ },
+ {
+  "word": "Accolade",
+  "translate": "שבח"
+ },
+ {
+  "word": "Accost",
+  "translate": "לָגֶשֶׁת וְלְדַבֵּר"
+ },
+ {
+  "word": "Acquiesce",
+  "translate": "להסכים"
+ },
+ {
+  "word": "Acrid",
+  "translate": "חָרִיף"
+ },
+ {
+  "word": "Acrimonious",
+  "translate": "מַר נֶפֶשׁ"
+ },
+ {
+  "word": "Acumen",
+  "translate": "חוכמה"
+ },
+ {
+  "word": "Adage",
+  "translate": "פִּתגָם"
+ },
+ {
+  "word": "Adamant",
+  "translate": "אדמנט"
+ },
+ {
+  "word": "Adapt",
+  "translate": "לְהִסְתָגֵל"
+ },
+ {
+  "word": "Adept",
+  "translate": "מְיוּמָן"
+ },
+ {
+  "word": "Adhere",
+  "translate": "לִדבּוֹק"
+ },
+ {
+  "word": "Admonish",
+  "translate": "לִנְזוֹף"
+ },
+ {
+  "word": "Adorn",
+  "translate": "לְקַשֵׁט"
+ },
+ {
+  "word": "Adroit",
+  "translate": "זָרִיז"
+ },
+ {
+  "word": "Adulation",
+  "translate": "הערצה"
+ },
+ {
+  "word": "Adversary",
+  "translate": "יָרִיב"
+ },
+ {
+  "word": "Adverse",
+  "translate": "שְׁלִילִי"
+ },
+ {
+  "word": "Advocate",
+  "translate": "עוֹרֵך דִין"
+ },
+ {
+  "word": "Aesthetic",
+  "translate": "אֶסתֵטִי"
+ },
+ {
+  "word": "Affable",
+  "translate": "מַסבִּיר פָּנִים"
+ },
+ {
+  "word": "Affinity",
+  "translate": "זִיקָה"
+ },
+ {
+  "word": "Afflict",
+  "translate": "לְיַסֵר"
+ },
+ {
+  "word": "Aggrandize",
+  "translate": "להגביר"
+ },
+ {
+  "word": "Agile",
+  "translate": "זָרִיז"
+ },
+ {
+  "word": "Agitate",
+  "translate": "לְהַתְסִיס"
+ },
+ {
+  "word": "Alacrity",
+  "translate": "נלהבות"
+ },
+ {
+  "word": "Alleviate",
+  "translate": "להקל"
+ },
+ {
+  "word": "Aloof",
+  "translate": "מרוחק"
+ },
+ {
+  "word": "Altruism",
+  "translate": "אלטרואיזם"
+ },
+ {
+  "word": "Amass",
+  "translate": "לִצְבּוֹר"
+ },
+ {
+  "word": "Ambiguous",
+  "translate": "דו - משמעי"
+ },
+ {
+  "word": "Ambivalent",
+  "translate": "אמביוולנטי"
+ },
+ {
+  "word": "Ameliorate",
+  "translate": "לְשַׁפֵּר"
+ },
+ {
+  "word": "Amiable",
+  "translate": "יְדִידוּתִי"
+ },
+ {
+  "word": "Amity",
+  "translate": "יְדִידוּת"
+ },
+ {
+  "word": "Amorphous",
+  "translate": "גָלוּם"
+ },
+ {
+  "word": "Analogous",
+  "translate": "מַקְבִּיל"
+ },
+ {
+  "word": "Anarchist",
+  "translate": "אֲנַרכִיסט"
+ },
+ {
+  "word": "Anathema",
+  "translate": "חֵרֶם"
+ },
+ {
+  "word": "Anomaly",
+  "translate": "אֲנוֹמַלִיָה"
+ },
+ {
+  "word": "Antagonist",
+  "translate": "יָרִיב"
+ },
+ {
+  "word": "Antediluvian",
+  "translate": "אנטדילובי"
+ },
+ {
+  "word": "Antiquated",
+  "translate": "מְיוּשָׁן"
+ },
+ {
+  "word": "Antithesis",
+  "translate": "אַנְטִיתֵזָה"
+ },
+ {
+  "word": "Apathy",
+  "translate": "אֲדִישׁוּת"
+ },
+ {
+  "word": "Apocryphal",
+  "translate": "מְפוּקפָּק"
+ },
+ {
+  "word": "Apostate",
+  "translate": "מְשׁוּמָד"
+ },
+ {
+  "word": "Appalling",
+  "translate": "מַחרִיד"
+ },
+ {
+  "word": "Apparition",
+  "translate": "הוֹפָעָה"
+ },
+ {
+  "word": "Appease",
+  "translate": "לְרַצוֹת"
+ },
+ {
+  "word": "Apprehensive",
+  "translate": "חוֹשֵׁשׁ"
+ },
+ {
+  "word": "Arbitrary",
+  "translate": "שרירותי"
+ },
+ {
+  "word": "Arcane",
+  "translate": "מִסתוֹרִי"
+ },
+ {
+  "word": "Archetype",
+  "translate": "אַב טִיפּוּס"
+ },
+ {
+  "word": "Arduous",
+  "translate": "כָּרוּך בְּמַאֲמָצִים"
+ },
+ {
+  "word": "Arrogance",
+  "translate": "יְהִירוּת"
+ },
+ {
+  "word": "Articulate",
+  "translate": "לבטא"
+ },
+ {
+  "word": "Artifice",
+  "translate": "תַחְבּוּלָה"
+ },
+ {
+  "word": "Ascendancy",
+  "translate": "עליות"
+ },
+ {
+  "word": "Ascetic",
+  "translate": "סַגְפָן"
+ },
+ {
+  "word": "Ascribe",
+  "translate": "לְשַׁיֵך"
+ },
+ {
+  "word": "Askance",
+  "translate": "בַּחֲשׁדָנוּת"
+ },
+ {
+  "word": "Assail",
+  "translate": "לִתְקוֹף"
+ },
+ {
+  "word": "Assent",
+  "translate": "לְהַסכִּים"
+ },
+ {
+  "word": "Assert",
+  "translate": "לִטעוֹן"
+ },
+ {
+  "word": "Assiduous",
+  "translate": "חָרוּץ"
+ },
+ {
+  "word": "Assimilate",
+  "translate": "להטמיע"
+ },
+ {
+  "word": "Assuage",
+  "translate": "לְשַׁכֵּך"
+ },
+ {
+  "word": "Astute",
+  "translate": "עָרוּם"
+ },
+ {
+  "word": "Atone",
+  "translate": "לְכַפֵּר"
+ },
+ {
+  "word": "Atrophy",
+  "translate": "לְהִתְנַוֵן"
+ },
+ {
+  "word": "Attenuate",
+  "translate": "לְהַחלִישׁ"
+ },
+ {
+  "word": "Atypical",
+  "translate": "לֹא טִיפּוּסִי"
+ },
+ {
+  "word": "Audacious",
+  "translate": "נוֹעָז"
+ },
+ {
+  "word": "Augment",
+  "translate": "לְהַגדִיל"
+ },
+ {
+  "word": "Auspicious",
+  "translate": "מבשר טוב"
+ },
+ {
+  "word": "Authentic",
+  "translate": "אוֹתֶנְטִי"
+ },
+ {
+  "word": "Authoritarian",
+  "translate": "סַמְכוּתִי"
+ },
+ {
+  "word": "Autonomy",
+  "translate": "אוטונומיה"
+ },
+ {
+  "word": "Avarice",
+  "translate": "חַמדָנוּת"
+ },
+ {
+  "word": "Aversion",
+  "translate": "סְלִידָה"
+ },
+ {
+  "word": "Avail",
+  "translate": "לְהוֹעִיל"
+ },
+ {
+  "word": "Avatar",
+  "translate": "גִלגוּל"
+ },
+ {
+  "word": "Avant-garde",
+  "translate": "חֵיל הֶחָלוּץ"
+ },
+ {
+  "word": "Avian",
+  "translate": "אביאן"
+ },
+ {
+  "word": "Avenue",
+  "translate": "שְׁדֵרָה"
+ },
+ {
+  "word": "Aviary",
+  "translate": "ציוף"
+ },
+ {
+  "word": "Avarice",
+  "translate": "חַמדָנוּת"
+ },
+ {
+  "word": "Avuncular",
+  "translate": "אוונקולרי"
+ },
+ {
+  "word": "Avid",
+  "translate": "לָהוּט"
+ },
+ {
+  "word": "Avow",
+  "translate": "לְהוֹדוֹת"
+ },
+ {
+  "word": "Avalanche",
+  "translate": "מַפּוֹלֶת שְׁלָגִים"
+ },
+ {
+  "word": "Avocation",
+  "translate": "יישוב"
+ },
+ {
+  "word": "Avoidance",
+  "translate": "הימנעות"
+ },
+ {
+  "word": "Aver",
+  "translate": "לְהַעִיד"
+ },
+ {
+  "word": "Averse",
+  "translate": "מִתנַגֵד"
+ },
+ {
+  "word": "Avocado",
+  "translate": "אבוקדו"
+ },
+ {
+  "word": "Avocation",
+  "translate": "יישוב"
+ },
+ {
+  "word": "Avidity",
+  "translate": "שׁוֹקְקוּת"
+ },
+ {
+  "word": "Avulsion",
+  "translate": "תעוזה"
+ },
+ {
+  "word": "Awry",
+  "translate": "משובש"
+ },
+ {
+  "word": "Awkward",
+  "translate": "מוזר"
+ },
+ {
+  "word": "Awaken",
+  "translate": "לְהָעִיר"
+ },
+ {
+  "word": "Awe",
+  "translate": "יראת כבוד"
+ },
+ {
+  "word": "Awesome",
+  "translate": "מדהים"
+ },
+ {
+  "word": "Awful",
+  "translate": "נורא"
+ },
+ {
+  "word": "Awhile",
+  "translate": "בנתיים"
+ },
+ {
+  "word": "Awestruck",
+  "translate": "המום"
+ },
+ {
+  "word": "Awn",
+  "translate": "אוון"
+ },
+ {
+  "word": "Awe-inspiring",
+  "translate": "מעורר יראה"
+ },
+ {
+  "word": "Axiom",
+  "translate": "אַקסִיוֹמָה"
+ },
+ {
+  "word": "Axis",
+  "translate": "צִיר"
+ },
+ {
+  "word": "Axial",
+  "translate": "צִירִי"
+ },
+ {
+  "word": "Axiomatic",
+  "translate": "אַקסִיוֹמָתִי"
+ },
+ {
+  "word": "Azure",
+  "translate": "צבע תכלת"
+ }
+],
+"B":[
+ {
+  "word": "Babble",
+  "translate": "פִּטפּוּט"
+ },
+ {
+  "word": "Baffle",
+  "translate": "לִהַבִיך"
+ },
+ {
+  "word": "Balk",
+  "translate": "באלק"
+ },
+ {
+  "word": "Balmy",
+  "translate": "באלמי"
+ },
+ {
+  "word": "Banal",
+  "translate": "בָּנָאלִי"
+ },
+ {
+  "word": "Banalize",
+  "translate": "בנאליזה"
+ },
+ {
+  "word": "Bandwagon",
+  "translate": "קרון התזמורת, טְרֶנְד"
+ },
+ {
+  "word": "Banish",
+  "translate": "לְגַרֵשׁ"
+ },
+ {
+  "word": "Bankrupt",
+  "translate": "פשיטת רגל"
+ },
+ {
+  "word": "Baroque",
+  "translate": "בָּארוֹק"
+ },
+ {
+  "word": "Barrage",
+  "translate": "מטח"
+ },
+ {
+  "word": "Barren",
+  "translate": "צחיח"
+ },
+ {
+  "word": "Base",
+  "translate": "בסיס"
+ },
+ {
+  "word": "Baseless",
+  "translate": "חסר בסיס"
+ },
+ {
+  "word": "Bashful",
+  "translate": "מבויש"
+ },
+ {
+  "word": "Bedlam",
+  "translate": "מְהוּמָה"
+ },
+ {
+  "word": "Bedraggled",
+  "translate": "נגרר"
+ },
+ {
+  "word": "Beggar",
+  "translate": "קַבְּצָן"
+ },
+ {
+  "word": "Beguile",
+  "translate": "לְהוֹנוֹת"
+ },
+ {
+  "word": "Behemoth",
+  "translate": "בהמות"
+ },
+ {
+  "word": "Belated",
+  "translate": "מְאוּחָר"
+ },
+ {
+  "word": "Beleaguer",
+  "translate": "מחבל"
+ },
+ {
+  "word": "Belie",
+  "translate": "לְהַפְרִיך"
+ },
+ {
+  "word": "Belittle",
+  "translate": "לִזַלזֵל בְּעֵרכּוֹ"
+ },
+ {
+  "word": "Bellicose",
+  "translate": "תוֹקפָּנִי"
+ },
+ {
+  "word": "Belligerence",
+  "translate": "לוחמנות"
+ },
+ {
+  "word": "Belligerent",
+  "translate": "לוֹחְמָנִי"
+ },
+ {
+  "word": "Benefactor",
+  "translate": "נַדבָן"
+ },
+ {
+  "word": "Beneficent",
+  "translate": "מיטיב"
+ },
+ {
+  "word": "Beneficiary",
+  "translate": "מוּטָב"
+ },
+ {
+  "word": "Benevolence",
+  "translate": "חֶסֶד"
+ },
+ {
+  "word": "Benevolent",
+  "translate": "נָדִיב"
+ },
+ {
+  "word": "Benighted",
+  "translate": "בלילה"
+ },
+ {
+  "word": "Benign",
+  "translate": "שָׁפִיר"
+ },
+ {
+  "word": "Benignancy",
+  "translate": "שפירות"
+ },
+ {
+  "word": "Benignity",
+  "translate": "שפינות"
+ },
+ {
+  "word": "Bequeath",
+  "translate": "לְהַנחִיל"
+ },
+ {
+  "word": "Bequeathal",
+  "translate": "הורשה"
+ },
+ {
+  "word": "Bequeathment",
+  "translate": "הורשה"
+ },
+ {
+  "word": "Berate",
+  "translate": "ברוט"
+ },
+ {
+  "word": "Berserk",
+  "translate": "מטורף"
+ },
+ {
+  "word": "Beseech",
+  "translate": "לְהַפְצִיר"
+ },
+ {
+  "word": "Besiege",
+  "translate": "לָצוּר"
+ },
+ {
+  "word": "Besmirch",
+  "translate": "הִשְׁמִיץ"
+ },
+ {
+  "word": "Bestial",
+  "translate": "חייתי"
+ },
+ {
+  "word": "Betray",
+  "translate": "לבגוד"
+ },
+ {
+  "word": "Betrothed",
+  "translate": "אֲרוּסָה"
+ },
+ {
+  "word": "Bewildered",
+  "translate": "נָבוֹך"
+ },
+ {
+  "word": "Bewitch",
+  "translate": "לְכַשֵׁף"
+ },
+ {
+  "word": "Biased",
+  "translate": "מְשׁוּחָד"
+ },
+ {
+  "word": "Biasedness",
+  "translate": "משוא פנים"
+ },
+ {
+  "word": "Bibliophile",
+  "translate": "ביבליופיל"
+ },
+ {
+  "word": "Bicker",
+  "translate": "לְהִתְקוֹטֵט"
+ },
+ {
+  "word": "Bigot",
+  "translate": "קנאי"
+ },
+ {
+  "word": "Bigotry",
+  "translate": "קַנָאוּת"
+ },
+ {
+  "word": "Bilateral",
+  "translate": "דוּ צְדָדִי"
+ },
+ {
+  "word": "Bilingual",
+  "translate": "דוּ לְשׁוֹנִי"
+ },
+ {
+  "word": "Bilious",
+  "translate": "מרה"
+ },
+ {
+  "word": "Billowing",
+  "translate": "מתנפח"
+ },
+ {
+  "word": "Biodegradable",
+  "translate": "מתכלה"
+ },
+ {
+  "word": "Bizarre",
+  "translate": "מוּזָר"
+ },
+ {
+  "word": "Bizarrely",
+  "translate": "באופן מוזר"
+ },
+ {
+  "word": "Blackmail",
+  "translate": "לִסְחוֹט"
+ },
+ {
+  "word": "Blame",
+  "translate": "אשמה"
+ },
+ {
+  "word": "Blameless",
+  "translate": "חַף מִפֶּשַׁע"
+ },
+ {
+  "word": "Blasé",
+  "translate": "בלזה"
+ },
+ {
+  "word": "Blasphemous",
+  "translate": "חילול השם"
+ },
+ {
+  "word": "Blasphemy",
+  "translate": "חִלוּל הַשֵׁם"
+ },
+ {
+  "word": "Blatant",
+  "translate": "גַס"
+ },
+ {
+  "word": "Blatantly",
+  "translate": "באופן בוטה"
+ },
+ {
+  "word": "Blazon",
+  "translate": "סֵמֶל הַמְדִינָה"
+ },
+ {
+  "word": "Bleak",
+  "translate": "עָגוּם"
+ },
+ {
+  "word": "Bleary",
+  "translate": "בליארי"
+ },
+ {
+  "word": "Blench",
+  "translate": "בלנץ'"
+ },
+ {
+  "word": "Blissful",
+  "translate": "מְאוּשָׁר"
+ },
+ {
+  "word": "Blithe",
+  "translate": "עַלִיז"
+ },
+ {
+  "word": "Blunder",
+  "translate": "לְפַשֵׁל"
+ },
+ {
+  "word": "Boastful",
+  "translate": "רַברְבָנִי"
+ },
+ {
+  "word": "Bogus",
+  "translate": "מְזוּיָף"
+ },
+ {
+  "word": "Boisterous",
+  "translate": "שׁוֹבָב"
+ },
+ {
+  "word": "Boisterously",
+  "translate": "בקול רועש"
+ },
+ {
+  "word": "Bolster",
+  "translate": "לְחַזֵק"
+ },
+ {
+  "word": "Bolstering",
+  "translate": "מחזק"
+ },
+ {
+  "word": "Bombard",
+  "translate": "לְהַפְצִיץ"
+ },
+ {
+  "word": "Bombastic",
+  "translate": "בּוֹמבַּסטִי"
+ },
+ {
+  "word": "Bombasticity",
+  "translate": "בומבסטיות"
+ },
+ {
+  "word": "Bonanza",
+  "translate": "מִרבָּץ עָשִׁיר"
+ },
+ {
+  "word": "Bond",
+  "translate": "אגרת חוב"
+ },
+ {
+  "word": "Bondage",
+  "translate": "שִׁעבּוּד"
+ },
+ {
+  "word": "Boon",
+  "translate": "בְּרָכָה"
+ },
+ {
+  "word": "Boorish",
+  "translate": "בוריש"
+ },
+ {
+  "word": "Bootleg",
+  "translate": "הַבְרָחָה"
+ },
+ {
+  "word": "Border",
+  "translate": "גבול"
+ },
+ {
+  "word": "Boredom",
+  "translate": "שעמום"
+ },
+ {
+  "word": "Botanical",
+  "translate": "בּוֹטָנִי"
+ },
+ {
+  "word": "Botch",
+  "translate": "בוץ'"
+ },
+ {
+  "word": "Bounteous",
+  "translate": "שׁוֹפֵעַ"
+ },
+ {
+  "word": "Bountiful",
+  "translate": "שׁוֹפֵעַ"
+ },
+ {
+  "word": "Bourgeois",
+  "translate": "בּוּרגָנִי"
+ },
+ {
+  "word": "Bowdlerize",
+  "translate": "באודלריז"
+ },
+ {
+  "word": "Bowel",
+  "translate": "מְעִי"
+ },
+ {
+  "word": "Boycott",
+  "translate": "חֵרֶם"
+ },
+ {
+  "word": "Boyish",
+  "translate": "נַעֲרִי"
+ },
+ {
+  "word": "Brag",
+  "translate": "לְהִתְרַבְרֵב"
+ },
+ {
+  "word": "Brash",
+  "translate": "חצוף"
+ },
+ {
+  "word": "Bravado",
+  "translate": "הֶעָזָה"
+ },
+ {
+  "word": "Brazen",
+  "translate": "חצוף"
+ },
+ {
+  "word": "Breach",
+  "translate": "הֲפָרָה"
+ },
+ {
+  "word": "Brevity",
+  "translate": "קוֹצֶר"
+ },
+ {
+  "word": "Bridle",
+  "translate": "רֶסֶן"
+ },
+ {
+  "word": "Bridled",
+  "translate": "רסן"
+ },
+ {
+  "word": "Brink",
+  "translate": "סַף"
+ },
+ {
+  "word": "Brisk",
+  "translate": "מְרַעֲנֵן"
+ },
+ {
+  "word": "Broach",
+  "translate": "ברוך"
+ },
+ {
+  "word": "Brocade",
+  "translate": "ברוקיד"
+ },
+ {
+  "word": "Brood",
+  "translate": "לִרְבּוֹץ"
+ },
+ {
+  "word": "Brooding",
+  "translate": "דְגִירָה"
+ },
+ {
+  "word": "Browbeat",
+  "translate": "לְהַפחִיד"
+ },
+ {
+  "word": "Brusque",
+  "translate": "ברוסק"
+ },
+ {
+  "word": "Brusquely",
+  "translate": "בחריפות"
+ },
+ {
+  "word": "Brutality",
+  "translate": "הִתעַלְלוּת"
+ },
+ {
+  "word": "Bubbly",
+  "translate": "תוֹסֵס"
+ },
+ {
+  "word": "Buckler",
+  "translate": "באקלר"
+ },
+ {
+  "word": "Bucolic",
+  "translate": "כַּפרִי"
+ },
+ {
+  "word": "Buffet",
+  "translate": "בופה"
+ },
+ {
+  "word": "Buffoon",
+  "translate": "לֵיצָן"
+ },
+ {
+  "word": "Bulwark",
+  "translate": "בולווארק"
+ },
+ {
+  "word": "Bumper",
+  "translate": "פָּגוֹשׁ"
+ },
+ {
+  "word": "Bumptious",
+  "translate": "מִתרַברֵב"
+ },
+ {
+  "word": "Bungle",
+  "translate": "לְקַלְקֵל"
+ },
+ {
+  "word": "Bureau",
+  "translate": "לשכה"
+ },
+ {
+  "word": "Burgeon",
+  "translate": "בורגון"
+ },
+ {
+  "word": "Burlesque",
+  "translate": "בּוּרלֶסקָה"
+ },
+ {
+  "word": "Burly",
+  "translate": "מְגוּשָׁם"
+ },
+ {
+  "word": "Burnish",
+  "translate": "הַברָקָה"
+ },
+ {
+  "word": "Bursar",
+  "translate": "גִזבָּר"
+ },
+ {
+  "word": "Busby",
+  "translate": "באסבי"
+ },
+ {
+  "word": "Busker",
+  "translate": "בסקר"
+ },
+ {
+  "word": "Buss",
+  "translate": "נְשִׁיקָה"
+ },
+ {
+  "word": "Busyness",
+  "translate": "עסוקות"
+ },
+ {
+  "word": "Butadiene",
+  "translate": "בוטאדיאן"
+ },
+ {
+  "word": "Butane",
+  "translate": "גָז בּוטָאן"
+ },
+ {
+  "word": "Butcher",
+  "translate": "קַצָב"
+ },
+ {
+  "word": "Butchery",
+  "translate": "טֶבַח"
+ },
+ {
+  "word": "Butene",
+  "translate": "בוטן"
+ },
+ {
+  "word": "Butler",
+  "translate": "משרת"
+ },
+ {
+  "word": "Butte",
+  "translate": "בוטה"
+ },
+ {
+  "word": "Butterfat",
+  "translate": "שומן חמאה"
+ },
+ {
+  "word": "Buttery",
+  "translate": "חמאתי"
+ },
+ {
+  "word": "Buttock",
+  "translate": "יַשׁבָן"
+ },
+ {
+  "word": "Buttocks",
+  "translate": "עֲגָבַיִם"
+ },
+ {
+  "word": "Button",
+  "translate": "לַחְצָן"
+ },
+ {
+  "word": "Buttress",
+  "translate": "לְחַזֵק"
+ },
+ {
+  "word": "Butyl",
+  "translate": "בוטיל"
+ },
+ {
+  "word": "Butylene",
+  "translate": "בוטילן"
+ },
+ {
+  "word": "Butyrate",
+  "translate": "בוטיראט"
+ },
+ {
+  "word": "Butyrin",
+  "translate": "בוטירין"
+ },
+ {
+  "word": "Butyrous",
+  "translate": "בוטירוס"
+ },
+ {
+  "word": "Butyryl",
+  "translate": "בוטיריל"
+ },
+ {
+  "word": "Buxom",
+  "translate": "בוקסום"
+ },
+ {
+  "word": "Buyout",
+  "translate": "רכישה"
+ },
+ {
+  "word": "Buzzard",
+  "translate": "זמזם"
+ },
+ {
+  "word": "Buzzer",
+  "translate": "זַמזָם"
+ },
+ {
+  "word": "Buzzing",
+  "translate": "זמזום"
+ },
+ {
+  "word": "Buzzkill",
+  "translate": "באזקיל"
+ },
+ {
+  "word": "Buzzy",
+  "translate": "באזי"
+ },
+ {
+  "word": "By-product",
+  "translate": "מוּצָר לְוָאִי"
+ },
+ {
+  "word": "Byway",
+  "translate": "דֶרֶך צְדָדִית"
+ },
+ {
+  "word": "Byword",
+  "translate": "פִּתגָם"
+ },
+ {
+  "word": "Bywordism",
+  "translate": "מילות לשון"
+ },
+ {
+  "word": "Byzantine",
+  "translate": "ביזנטי"
+ }
+],
+"C":[
+ {
+  "word": "Cadence",
+  "translate": "קֶצֶב"
+ },
+ {
+  "word": "Cajole",
+  "translate": "לְשַׁדֵל"
+ },
+ {
+  "word": "Calculated",
+  "translate": "מְחוֹשָׁב"
+ },
+ {
+  "word": "Caliber",
+  "translate": "קָלִיבֶּר"
+ },
+ {
+  "word": "Callous",
+  "translate": "קָשׁוּחַ"
+ },
+ {
+  "word": "Camaraderie",
+  "translate": "חֲבֵרוּת"
+ },
+ {
+  "word": "Camouflage",
+  "translate": "לְהַסווֹת"
+ },
+ {
+  "word": "Candor",
+  "translate": "כֵּנוּת"
+ },
+ {
+  "word": "Canine",
+  "translate": "כַּלבִּי"
+ },
+ {
+  "word": "Canon",
+  "translate": "קָנוֹן"
+ },
+ {
+  "word": "Cant",
+  "translate": "צְבִיעוּת"
+ },
+ {
+  "word": "Cantankerous",
+  "translate": "רַגזָן"
+ },
+ {
+  "word": "Canvass",
+  "translate": "קנבס"
+ },
+ {
+  "word": "Capacious",
+  "translate": "מְרוּוָח"
+ },
+ {
+  "word": "Capitalism",
+  "translate": "קָפִּיטָלִיזם"
+ },
+ {
+  "word": "Capitulate",
+  "translate": "לְהִכָּנֵעַ"
+ },
+ {
+  "word": "Caprice",
+  "translate": "גַחְמָה"
+ },
+ {
+  "word": "Capricious",
+  "translate": "גַחְמָנִי"
+ },
+ {
+  "word": "Captivate",
+  "translate": "לָצוּד"
+ },
+ {
+  "word": "Caricature",
+  "translate": "קָרִיקָטוּרָה"
+ },
+ {
+  "word": "Carouse",
+  "translate": "לְהִתְהוֹלֵל"
+ },
+ {
+  "word": "Carrion",
+  "translate": "פֶּגֶר"
+ },
+ {
+  "word": "Cartographer",
+  "translate": "קרטוגרף"
+ },
+ {
+  "word": "Cascade",
+  "translate": "אֶשֶׁד"
+ },
+ {
+  "word": "Castigate",
+  "translate": "לְבַקֵר בְּחֲרִיפוּת"
+ },
+ {
+  "word": "Cataclysmic",
+  "translate": "קטקליזמי"
+ },
+ {
+  "word": "Catalyst",
+  "translate": "זָרָז"
+ },
+ {
+  "word": "Catalyst",
+  "translate": "זָרָז"
+ },
+ {
+  "word": "Catastrophe",
+  "translate": "קטסטרופה"
+ },
+ {
+  "word": "Categorical",
+  "translate": "קָטֵגוֹרִי"
+ },
+ {
+  "word": "Catharsis",
+  "translate": "קתרזיס"
+ },
+ {
+  "word": "Caustic",
+  "translate": "מְאַכֵּל"
+ },
+ {
+  "word": "Caustic",
+  "translate": "מְאַכֵּל"
+ },
+ {
+  "word": "Cavalcade",
+  "translate": "תַהֲלוּכָה"
+ },
+ {
+  "word": "Cavort",
+  "translate": "לְפַזֵז"
+ },
+ {
+  "word": "Celebrated",
+  "translate": "מְפוּרסָם"
+ },
+ {
+  "word": "Celestial",
+  "translate": "שְׁמֵימִי"
+ },
+ {
+  "word": "Censorious",
+  "translate": "צנזורית"
+ },
+ {
+  "word": "Censure",
+  "translate": "לְגַנוֹת"
+ },
+ {
+  "word": "Centered",
+  "translate": "מְרוּכָּז"
+ },
+ {
+  "word": "Centrifugal",
+  "translate": "צֶנטרִיפוּגָלִי"
+ },
+ {
+  "word": "Cerebral",
+  "translate": "מוֹחִי"
+ },
+ {
+  "word": "Cerebration",
+  "translate": "חגיגה"
+ },
+ {
+  "word": "Ceremonial",
+  "translate": "טִקסִי"
+ },
+ {
+  "word": "Certitude",
+  "translate": "וַדָאוּת"
+ },
+ {
+  "word": "Chafe",
+  "translate": "לְחַמֵם"
+ },
+ {
+  "word": "Chagrin",
+  "translate": "דִכדוּך"
+ },
+ {
+  "word": "Chalice",
+  "translate": "גָבִיעַ"
+ },
+ {
+  "word": "Champion",
+  "translate": "אַלוּף"
+ },
+ {
+  "word": "Changeable",
+  "translate": "מִשְׁתַנֶה"
+ },
+ {
+  "word": "Channel",
+  "translate": "עָרוּץ"
+ },
+ {
+  "word": "Characteristic",
+  "translate": "מאפיין"
+ },
+ {
+  "word": "Charisma",
+  "translate": "כַּרִיזמָה"
+ },
+ {
+  "word": "Charlatan",
+  "translate": "שַׁרלָטָן"
+ },
+ {
+  "word": "Chary",
+  "translate": "צ'ארי"
+ },
+ {
+  "word": "Chasm",
+  "translate": "תְהוֹם"
+ },
+ {
+  "word": "Chastise",
+  "translate": "ייסורים"
+ },
+ {
+  "word": "Cherished",
+  "translate": "מְטוּפָּח"
+ },
+ {
+  "word": "Chicanery",
+  "translate": "שיקניות"
+ },
+ {
+  "word": "Chide",
+  "translate": "לִנְזוֹף"
+ },
+ {
+  "word": "Childlike",
+  "translate": "ילדותי"
+ },
+ {
+  "word": "Choleric",
+  "translate": "כולרי"
+ },
+ {
+  "word": "Chronicle",
+  "translate": "כְּרוֹנִיקָה"
+ },
+ {
+  "word": "Circuitous",
+  "translate": "במעגל"
+ },
+ {
+  "word": "Clairvoyant",
+  "translate": "מַגִיד עֲתִידוֹת"
+ },
+ {
+  "word": "Clamor",
+  "translate": "צְעָקָה"
+ },
+ {
+  "word": "Clandestine",
+  "translate": "חֲשָׁאִי"
+ },
+ {
+  "word": "Clemency",
+  "translate": "חֲנִינָה"
+ },
+ {
+  "word": "Cliché",
+  "translate": "קְלִישֵׁה"
+ },
+ {
+  "word": "Coalesce",
+  "translate": "לְהִתְמַזֵג"
+ },
+ {
+  "word": "Cogent",
+  "translate": "מְשַׁכנֵעַ"
+ },
+ {
+  "word": "Cognizant",
+  "translate": "מודע"
+ },
+ {
+  "word": "Collusion",
+  "translate": "קְנוּנִיָה"
+ },
+ {
+  "word": "Commemorate",
+  "translate": "לְהַזכִּיר"
+ },
+ {
+  "word": "Commensurate",
+  "translate": "בהתאם"
+ },
+ {
+  "word": "Complacent",
+  "translate": "שַׁאֲנָן"
+ },
+ {
+  "word": "Complement",
+  "translate": "מַשׁלִים"
+ },
+ {
+  "word": "Compunction",
+  "translate": "חֲרָטָה"
+ },
+ {
+  "word": "Concatenate",
+  "translate": "שרשור"
+ },
+ {
+  "word": "Conciliate",
+  "translate": "לְהַפִּיס"
+ },
+ {
+  "word": "Concomitant",
+  "translate": "במקביל"
+ },
+ {
+  "word": "Condone",
+  "translate": "לִסְלוֹחַ"
+ },
+ {
+  "word": "Conducive",
+  "translate": "מְסַיֵעַ"
+ },
+ {
+  "word": "Confidant",
+  "translate": "אִישׁ סוֹד"
+ },
+ {
+  "word": "Confine",
+  "translate": "להגביל"
+ },
+ {
+  "word": "Confluence",
+  "translate": "מִפגָשׁ"
+ },
+ {
+  "word": "Conformist",
+  "translate": "קונפורמיסט"
+ },
+ {
+  "word": "Congenial",
+  "translate": "קָרוֹב בְּרוּחוֹ"
+ },
+ {
+  "word": "Conglomeration",
+  "translate": "צְבִירָה"
+ },
+ {
+  "word": "Conjecture",
+  "translate": "לְשַׁעֵר"
+ },
+ {
+  "word": "Conjure",
+  "translate": "לְהַעֲלוֹת"
+ },
+ {
+  "word": "Connoisseur",
+  "translate": "יַדעָן"
+ },
+ {
+  "word": "Connotation",
+  "translate": "מַשְׁמָעוּת"
+ },
+ {
+  "word": "Conscientious",
+  "translate": "בַּעַל מַצְפּוּן"
+ },
+ {
+  "word": "Consensus",
+  "translate": "קוֹנסֶנזוּס"
+ },
+ {
+  "word": "Consign",
+  "translate": "לִמְסוֹר"
+ },
+ {
+  "word": "Consolidate",
+  "translate": "לְגַבֵּשׁ"
+ },
+ {
+  "word": "Conspicuous",
+  "translate": "בּוֹלֵט לָעַיִן"
+ },
+ {
+  "word": "Constrict",
+  "translate": "לְהַצֵר"
+ },
+ {
+  "word": "Consummate",
+  "translate": "לְהַגשִׁים"
+ },
+ {
+  "word": "Contemplate",
+  "translate": "לְהַרהֵר"
+ },
+ {
+  "word": "Contentious",
+  "translate": "שנוי במחלוקת"
+ },
+ {
+  "word": "Continence",
+  "translate": "הִתאַפְּקוּת"
+ },
+ {
+  "word": "Contravene",
+  "translate": "לְהָפֵר"
+ },
+ {
+  "word": "Contrite",
+  "translate": "מָלֵא חֲרָטָה"
+ },
+ {
+  "word": "Contumacious",
+  "translate": "מציק"
+ },
+ {
+  "word": "Conundrum",
+  "translate": "חידה"
+ },
+ {
+  "word": "Conventional",
+  "translate": "מוּסכָּם"
+ },
+ {
+  "word": "Conversant",
+  "translate": "בָּקִי"
+ },
+ {
+  "word": "Convivial",
+  "translate": "משמח"
+ },
+ {
+  "word": "Copious",
+  "translate": "שׁוֹפֵעַ"
+ },
+ {
+  "word": "Cordial",
+  "translate": "לְבָבִי"
+ },
+ {
+  "word": "Corpulent",
+  "translate": "בַּעַל גוּף"
+ },
+ {
+  "word": "Corroborate",
+  "translate": "לְאַמֵת"
+ },
+ {
+  "word": "Corrugated",
+  "translate": "גלי"
+ },
+ {
+  "word": "Cosmopolitan",
+  "translate": "קוסמופוליטי"
+ },
+ {
+  "word": "Coterie",
+  "translate": "קוטרי"
+ },
+ {
+  "word": "Countenance",
+  "translate": "אַרֶשֶׁת פָּנִים"
+ },
+ {
+  "word": "Coup",
+  "translate": "צַעַד מַפתִיעַ"
+ },
+ {
+  "word": "Covenant",
+  "translate": "ברית"
+ },
+ {
+  "word": "Coy",
+  "translate": "צָנוּעַ"
+ },
+ {
+  "word": "Craven",
+  "translate": "פחדן"
+ },
+ {
+  "word": "Credence",
+  "translate": "אמון"
+ },
+ {
+  "word": "Credible",
+  "translate": "מְהֵימָן"
+ },
+ {
+  "word": "Creditable",
+  "translate": "רָאוּי לְשֶׁבַח"
+ },
+ {
+  "word": "Credulous",
+  "translate": "מאמין"
+ },
+ {
+  "word": "Crescendo",
+  "translate": "קרשנדו"
+ },
+ {
+  "word": "Criterion",
+  "translate": "קרִיטֶרִיוֹן"
+ },
+ {
+  "word": "Cryptic",
+  "translate": "נִסתָר"
+ },
+ {
+  "word": "Culminate",
+  "translate": "להגיע לַפִּסגָה"
+ },
+ {
+  "word": "Culpable",
+  "translate": "אָשֵׁם"
+ },
+ {
+  "word": "Culprit",
+  "translate": "עֲבַרְיָן"
+ },
+ {
+  "word": "Cumbersome",
+  "translate": "מסורבל"
+ },
+ {
+  "word": "Cunning",
+  "translate": "עַרמוּמִי"
+ },
+ {
+  "word": "Cupidity",
+  "translate": "קופידיות"
+ },
+ {
+  "word": "Curmudgeon",
+  "translate": "קורמודג'ון"
+ },
+ {
+  "word": "Cursory",
+  "translate": "שִׁטחִי"
+ },
+ {
+  "word": "Curt",
+  "translate": "קָצָר"
+ },
+ {
+  "word": "Curtail",
+  "translate": "לְקַצֵר"
+ },
+ {
+  "word": "Cynic",
+  "translate": "צִינִיקָן"
+ }
+],
+"D":[
+ {
+  "word": "Daunt",
+  "translate": "להפחיד"
+ },
+ {
+  "word": "Dearth",
+  "translate": "צִמצוּם"
+ },
+ {
+  "word": "Debacle",
+  "translate": "תקלה"
+ },
+ {
+  "word": "Debilitate",
+  "translate": "תשוש"
+ },
+ {
+  "word": "Debunk",
+  "translate": "לַחשׂוֹף"
+ },
+ {
+  "word": "Decadence",
+  "translate": "שְׁחִיתוּת"
+ },
+ {
+  "word": "Decimate",
+  "translate": "הסר"
+ },
+ {
+  "word": "Decorum",
+  "translate": "הֲגִינוּת"
+ },
+ {
+  "word": "Decrepit",
+  "translate": "תָשׁוּשׁ"
+ },
+ {
+  "word": "Deduction",
+  "translate": "ניכוי"
+ },
+ {
+  "word": "Deem",
+  "translate": "לִסְבּוֹר"
+ },
+ {
+  "word": "Defame",
+  "translate": "לְהַשְׁמִיץ"
+ },
+ {
+  "word": "Default",
+  "translate": "בְּרִירַת מֶחדָל"
+ },
+ {
+  "word": "Defeatist",
+  "translate": "תבוסתנית"
+ },
+ {
+  "word": "Defile",
+  "translate": "לְטַמֵא"
+ },
+ {
+  "word": "Defoliate",
+  "translate": "לנקות את העלים"
+ },
+ {
+  "word": "Defraud",
+  "translate": "לְהוֹנוֹת"
+ },
+ {
+  "word": "Defunct",
+  "translate": "נִפטָר"
+ },
+ {
+  "word": "Deft",
+  "translate": "זָרִיז"
+ },
+ {
+  "word": "Deign",
+  "translate": "דין"
+ },
+ {
+  "word": "Delectable",
+  "translate": "טָעִים"
+ },
+ {
+  "word": "Deliberate",
+  "translate": "מְכוּוָן"
+ },
+ {
+  "word": "Delinquent",
+  "translate": "עבריין"
+ },
+ {
+  "word": "Deluge",
+  "translate": "מַבּוּל"
+ },
+ {
+  "word": "Demagogue",
+  "translate": "דֵמָגוֹג"
+ },
+ {
+  "word": "Demarcation",
+  "translate": "תְחִימָה"
+ },
+ {
+  "word": "Demise",
+  "translate": "פְּטִירָה"
+ },
+ {
+  "word": "Demur",
+  "translate": "לְהִתְנַגֵד"
+ },
+ {
+  "word": "Denigrate",
+  "translate": "לְהַשְׁמִיץ"
+ },
+ {
+  "word": "Denizen",
+  "translate": "דניזן"
+ },
+ {
+  "word": "Denote",
+  "translate": "לציין"
+ },
+ {
+  "word": "Denounce",
+  "translate": "לְהוֹקִיעַ"
+ },
+ {
+  "word": "Depict",
+  "translate": "לתאר"
+ },
+ {
+  "word": "Deplete",
+  "translate": "לְרוֹקֵן"
+ },
+ {
+  "word": "Deplore",
+  "translate": "לִבכּוֹת"
+ },
+ {
+  "word": "Depose",
+  "translate": "לְהַדִיחַ"
+ },
+ {
+  "word": "Depravity",
+  "translate": "שְׁחִיתוּת"
+ },
+ {
+  "word": "Deprecate",
+  "translate": "הוצא משימוש"
+ },
+ {
+  "word": "Depreciate",
+  "translate": "לָרֶדֶת בְּעֵרכּוֹ"
+ },
+ {
+  "word": "Derelict",
+  "translate": "נָטוּשׁ"
+ },
+ {
+  "word": "Deride",
+  "translate": "לִלְעוֹג"
+ },
+ {
+  "word": "Derision",
+  "translate": "לַעַג"
+ },
+ {
+  "word": "Derivative",
+  "translate": "נגזר"
+ },
+ {
+  "word": "Descry",
+  "translate": "דיסקרי"
+ },
+ {
+  "word": "Desecrate",
+  "translate": "לְחַלֵל"
+ },
+ {
+  "word": "Desist",
+  "translate": "לַחְדוֹל"
+ },
+ {
+  "word": "Desolate",
+  "translate": "שׁוֹמֵם"
+ },
+ {
+  "word": "Despair",
+  "translate": "יאוש"
+ },
+ {
+  "word": "Despicable",
+  "translate": "בזוי"
+ },
+ {
+  "word": "Despondent",
+  "translate": "מְדוּכדָך"
+ },
+ {
+  "word": "Destitute",
+  "translate": "חֲסַר כֹּל"
+ },
+ {
+  "word": "Desultory",
+  "translate": "חסרי"
+ },
+ {
+  "word": "Deteriorate",
+  "translate": "לְהִתְדַרְדֵר"
+ },
+ {
+  "word": "Detriment",
+  "translate": "לרעה"
+ },
+ {
+  "word": "Detritus",
+  "translate": "בְּלִית"
+ },
+ {
+  "word": "Deviate",
+  "translate": "לִסְטוֹת"
+ },
+ {
+  "word": "Devoid",
+  "translate": "נָטוּל"
+ },
+ {
+  "word": "Dexterous",
+  "translate": "זָרִיז"
+ },
+ {
+  "word": "Diabolical",
+  "translate": "שטני"
+ },
+ {
+  "word": "Diaphanous",
+  "translate": "שָׁקוּף"
+ },
+ {
+  "word": "Diatribe",
+  "translate": "הַתקָפָה חֲרִיפָה"
+ },
+ {
+  "word": "Dichotomy",
+  "translate": "דיכוטומיה"
+ },
+ {
+  "word": "Dictum",
+  "translate": "מֵימרָה"
+ },
+ {
+  "word": "Didactic",
+  "translate": "דִידַקטִי"
+ },
+ {
+  "word": "Diffident",
+  "translate": "נֶחבָּא אֶל הַכֵּלִים"
+ },
+ {
+  "word": "Diffuse",
+  "translate": "מְפוּזָר"
+ },
+ {
+  "word": "Digress",
+  "translate": "לִסְטוֹת"
+ },
+ {
+  "word": "Dilemma",
+  "translate": "דִילֶמָה"
+ },
+ {
+  "word": "Diligent",
+  "translate": "חָרוּץ"
+ },
+ {
+  "word": "Dilapidated",
+  "translate": "רָעוּעַ"
+ },
+ {
+  "word": "Dilate",
+  "translate": "לְהִתְרַחֵב"
+ },
+ {
+  "word": "Dilettante",
+  "translate": "חוֹבְבָן"
+ },
+ {
+  "word": "Diminutive",
+  "translate": "צוּרַת הַקטָנָה"
+ },
+ {
+  "word": "Dire",
+  "translate": "נוֹרָא"
+ },
+ {
+  "word": "Dirge",
+  "translate": "קִינָה"
+ },
+ {
+  "word": "Disabuse",
+  "translate": "לְשַׁחְרֵר מְאַשְׁלָיָה"
+ },
+ {
+  "word": "Disaffected",
+  "translate": "לא מרוצה"
+ },
+ {
+  "word": "Disarray",
+  "translate": "אִי סֶדֵר"
+ },
+ {
+  "word": "Disavow",
+  "translate": "לְהִתְכַּחֵשׁ"
+ },
+ {
+  "word": "Disband",
+  "translate": "לְפַרֵק"
+ },
+ {
+  "word": "Disburse",
+  "translate": "לשלם"
+ },
+ {
+  "word": "Discern",
+  "translate": "לְהַבחִין"
+ },
+ {
+  "word": "Disconcert",
+  "translate": "מבוכה"
+ },
+ {
+  "word": "Disconsolate",
+  "translate": "להתנחם"
+ },
+ {
+  "word": "Discordant",
+  "translate": "סתירה"
+ },
+ {
+  "word": "Discount",
+  "translate": "הנחה"
+ },
+ {
+  "word": "Discourse",
+  "translate": "שִׂיחַ"
+ },
+ {
+  "word": "Discredit",
+  "translate": "לִפְגוֹעַ בְּאֲמִינוּת"
+ },
+ {
+  "word": "Discreet",
+  "translate": "דִיסקרֶטִי"
+ },
+ {
+  "word": "Discrepancy",
+  "translate": "אִי הַתְאָמָה"
+ },
+ {
+  "word": "Disdain",
+  "translate": "בּוּז"
+ },
+ {
+  "word": "Disembark",
+  "translate": "לָרֶדֶת מֵאֳנִיָה"
+ },
+ {
+  "word": "Disenfranchise",
+  "translate": "שלילת זכויות"
+ },
+ {
+  "word": "Disengage",
+  "translate": "לְנַתֵק"
+ },
+ {
+  "word": "Disfigure",
+  "translate": "לְכַעֵר"
+ },
+ {
+  "word": "Disgruntled",
+  "translate": "מְמוּרמָר"
+ },
+ {
+  "word": "Dishearten",
+  "translate": "לאכזב"
+ },
+ {
+  "word": "Disheveled",
+  "translate": "פרוע"
+ },
+ {
+  "word": "Disinclined",
+  "translate": "לא נוטה"
+ },
+ {
+  "word": "Disintegrate",
+  "translate": "לְהִתְפּוֹרֵר"
+ },
+ {
+  "word": "Disinter",
+  "translate": "לְהוֹצִיא מְקֶבֶר"
+ },
+ {
+  "word": "Dislodge",
+  "translate": "לְנַשֵׁל"
+ },
+ {
+  "word": "Dismantle",
+  "translate": "לְפַרֵק"
+ },
+ {
+  "word": "Dismay",
+  "translate": "תַדְהֵמָה"
+ },
+ {
+  "word": "Disparage",
+  "translate": "לִזַלזֵל"
+ },
+ {
+  "word": "Disparate",
+  "translate": "מְפוּרָד"
+ },
+ {
+  "word": "Dispel",
+  "translate": "לְפַזֵר"
+ },
+ {
+  "word": "Dispense",
+  "translate": "לְחַלֵק"
+ },
+ {
+  "word": "Disperse",
+  "translate": "לְפַזֵר"
+ },
+ {
+  "word": "Dispirited",
+  "translate": "סַר"
+ },
+ {
+  "word": "Disputatious",
+  "translate": "שנוי במחלוקת"
+ },
+ {
+  "word": "Disquiet",
+  "translate": "אִי שָׁקֵט"
+ },
+ {
+  "word": "Disregard",
+  "translate": "הִתעַלְמוּת"
+ },
+ {
+  "word": "Disrepair",
+  "translate": "מַצָב הַטָעוּן תִקוּן"
+ },
+ {
+  "word": "Disrepute",
+  "translate": "שֵׁם רַע"
+ },
+ {
+  "word": "Disruptive",
+  "translate": "מְשַׁבֵּשׁ"
+ },
+ {
+  "word": "Dissent",
+  "translate": "התנגדות"
+ },
+ {
+  "word": "Dissertation",
+  "translate": "מַסָה"
+ },
+ {
+  "word": "Dissident",
+  "translate": "פּוֹרֵשׁ"
+ },
+ {
+  "word": "Dissimulate",
+  "translate": "לבטל"
+ },
+ {
+  "word": "Dissipate",
+  "translate": "לְפַזֵר"
+ },
+ {
+  "word": "Dissociate",
+  "translate": "להתנתק"
+ },
+ {
+  "word": "Distend",
+  "translate": "לְהִתְנַפֵּחַ"
+ },
+ {
+  "word": "Distill",
+  "translate": "לזקק"
+ },
+ {
+  "word": "Distinct",
+  "translate": "מוּבהָק"
+ },
+ {
+  "word": "Distortion",
+  "translate": "עיוות"
+ },
+ {
+  "word": "Distract",
+  "translate": "להסיח את הדעה"
+ },
+ {
+  "word": "Dither",
+  "translate": "לְהַסֵס"
+ },
+ {
+  "word": "Diurnal",
+  "translate": "יוֹמִי"
+ },
+ {
+  "word": "Diverge",
+  "translate": "לִסְטוֹת"
+ },
+ {
+  "word": "Diverse",
+  "translate": "מְגוּוָן"
+ },
+ {
+  "word": "Divest",
+  "translate": "לְהוֹקִיעַ"
+ },
+ {
+  "word": "Divulge",
+  "translate": "לגלות סוד"
+ },
+ {
+  "word": "Docile",
+  "translate": "כָּנוּעַ"
+ },
+ {
+  "word": "Dogged",
+  "translate": "עיקש"
+ },
+ {
+  "word": "Doleful",
+  "translate": "עָגוּם"
+ },
+ {
+  "word": "Dolorous",
+  "translate": "מַכאִיב"
+ },
+ {
+  "word": "Domineer",
+  "translate": "דומינר"
+ },
+ {
+  "word": "Don",
+  "translate": "דוֹן"
+ }
+],
+"E":[
+ {
+  "word": "Ebullient",
+  "translate": "תוֹסֵס"
+ },
+ {
+  "word": "Eccentric",
+  "translate": "תמהוני"
+ },
+ {
+  "word": "Eccentricity",
+  "translate": "תִמהוֹנִיוּת"
+ },
+ {
+  "word": "Ecclesiastical",
+  "translate": "כנסייתי"
+ },
+ {
+  "word": "Ecdysiast",
+  "translate": "אקדיזיסט"
+ },
+ {
+  "word": "Eclectic",
+  "translate": "אֶקְלֶקְטִי"
+ },
+ {
+  "word": "Eclipse",
+  "translate": "ליקוי חמה"
+ },
+ {
+  "word": "Edict",
+  "translate": "צַו"
+ },
+ {
+  "word": "Edify",
+  "translate": "לְהַבהִיר"
+ },
+ {
+  "word": "Educe",
+  "translate": "לחנך"
+ },
+ {
+  "word": "Eerie",
+  "translate": "מַפְחִיד"
+ },
+ {
+  "word": "Efface",
+  "translate": "לִמְחוֹק"
+ },
+ {
+  "word": "Effervescence",
+  "translate": "תְסִיסָה"
+ },
+ {
+  "word": "Effete",
+  "translate": "מְנוּוָן"
+ },
+ {
+  "word": "Efficacious",
+  "translate": "יָעִיל"
+ },
+ {
+  "word": "Effrontery",
+  "translate": "חוּצפָּה"
+ },
+ {
+  "word": "Effulgent",
+  "translate": "זוהר"
+ },
+ {
+  "word": "Egalitarian",
+  "translate": "שוויוני"
+ },
+ {
+  "word": "Egocentric",
+  "translate": "אֶגוֹצֶנטְרִי"
+ },
+ {
+  "word": "Egregious",
+  "translate": "בּוֹלֵט"
+ },
+ {
+  "word": "Egress",
+  "translate": "יְצִיאָה"
+ },
+ {
+  "word": "Eject",
+  "translate": "לִפְלוֹט"
+ },
+ {
+  "word": "Elaborate",
+  "translate": "לְפַרֵט"
+ },
+ {
+  "word": "Elastic",
+  "translate": "אֵלַסטִי"
+ },
+ {
+  "word": "Elated",
+  "translate": "מתמוגג"
+ },
+ {
+  "word": "Electorate",
+  "translate": "ציבור הבוחרים"
+ },
+ {
+  "word": "Elegiac",
+  "translate": "אלגי"
+ },
+ {
+  "word": "Elicit",
+  "translate": "לְהָפִיק"
+ },
+ {
+  "word": "Elite",
+  "translate": "עִלִית"
+ },
+ {
+  "word": "Eloquence",
+  "translate": "צַחוּת לָשׁוֹן"
+ },
+ {
+  "word": "Elucidate",
+  "translate": "לְהַבהִיר"
+ },
+ {
+  "word": "Elusive",
+  "translate": "חֲמַקמַק"
+ },
+ {
+  "word": "Emaciated",
+  "translate": "כחוש"
+ },
+ {
+  "word": "Emancipate",
+  "translate": "לְשַׁחְרֵר"
+ },
+ {
+  "word": "Embargo",
+  "translate": "אֶמבַּרְגוֹ"
+ },
+ {
+  "word": "Embellish",
+  "translate": "לְעַטֵר"
+ },
+ {
+  "word": "Embezzle",
+  "translate": "מעילה"
+ },
+ {
+  "word": "Embroil",
+  "translate": "לְסַבֵּך"
+ },
+ {
+  "word": "Embryonic",
+  "translate": "עוּבָּרִי"
+ },
+ {
+  "word": "Emend",
+  "translate": "אמנד"
+ },
+ {
+  "word": "Eminent",
+  "translate": "דָגוּל"
+ },
+ {
+  "word": "Empathize",
+  "translate": "להזדהות"
+ },
+ {
+  "word": "Empirical",
+  "translate": "אֶמפִּירִי"
+ },
+ {
+  "word": "Empower",
+  "translate": "להעצים"
+ },
+ {
+  "word": "Emulate",
+  "translate": "לחקות"
+ },
+ {
+  "word": "Enamored",
+  "translate": "מְאוֹהָב"
+ },
+ {
+  "word": "Encroach",
+  "translate": "לְהַסִיג גְבוּל"
+ },
+ {
+  "word": "Endearment",
+  "translate": "הַבָּעַת חִיבָּה"
+ },
+ {
+  "word": "Endemic",
+  "translate": "אֶנדֵמִי"
+ },
+ {
+  "word": "Endorse",
+  "translate": "לְאַשֵׁר"
+ },
+ {
+  "word": "Endow",
+  "translate": "לְהַעֲנִיק"
+ },
+ {
+  "word": "Endure",
+  "translate": "לסבול"
+ },
+ {
+  "word": "Energize",
+  "translate": "לְהַמרִיץ"
+ },
+ {
+  "word": "Enervate",
+  "translate": "לעצבן"
+ },
+ {
+  "word": "Enfranchise",
+  "translate": "זכיין"
+ },
+ {
+  "word": "Engender",
+  "translate": "לְהוֹלִיד"
+ },
+ {
+  "word": "Enigmatic",
+  "translate": "תָמוּהַ"
+ },
+ {
+  "word": "Enjoin",
+  "translate": "לְחַיֵב"
+ },
+ {
+  "word": "Enmity",
+  "translate": "אֵיבָה"
+ },
+ {
+  "word": "Enormity",
+  "translate": "ענקיות"
+ },
+ {
+  "word": "Enraptured",
+  "translate": "מוקסם"
+ },
+ {
+  "word": "Enshrine",
+  "translate": "לעגון"
+ },
+ {
+  "word": "Ensnare",
+  "translate": "ללכוד"
+ },
+ {
+  "word": "Entail",
+  "translate": "כרוך"
+ },
+ {
+  "word": "Entice",
+  "translate": "לפתות"
+ },
+ {
+  "word": "Entreat",
+  "translate": "לְהַפְצִיר"
+ },
+ {
+  "word": "Enumerate",
+  "translate": "לִמְנוֹת"
+ },
+ {
+  "word": "Enunciate",
+  "translate": "לְבַטֵא"
+ },
+ {
+  "word": "Envelop",
+  "translate": "לַעֲטוֹף"
+ },
+ {
+  "word": "Envenom",
+  "translate": "הִרְעִיל"
+ },
+ {
+  "word": "Enviable",
+  "translate": "מְעוֹרֵר קִנְאָה"
+ },
+ {
+  "word": "Epigram",
+  "translate": "מִכתָם"
+ },
+ {
+  "word": "Epiphany",
+  "translate": "הִתגַלוּת"
+ },
+ {
+  "word": "Epitaph",
+  "translate": "כתובה"
+ },
+ {
+  "word": "Epithet",
+  "translate": "תוֹאַר"
+ },
+ {
+  "word": "Epitome",
+  "translate": "תַמצִית"
+ },
+ {
+  "word": "Equanimity",
+  "translate": "יִשׁוּב הַדַעַת"
+ },
+ {
+  "word": "Equate",
+  "translate": "השווה"
+ },
+ {
+  "word": "Equilibrium",
+  "translate": "שִׁוּוּי מִשׁקָל"
+ },
+ {
+  "word": "Equivocal",
+  "translate": "דוּ מַשְׁמָעִי"
+ },
+ {
+  "word": "Errant",
+  "translate": "תוֹעֶה"
+ },
+ {
+  "word": "Erratic",
+  "translate": "בִּלתִי יָצִיב"
+ },
+ {
+  "word": "Erudite",
+  "translate": "מְלוּמָד"
+ },
+ {
+  "word": "Escapade",
+  "translate": "הַרפַּתקָה"
+ },
+ {
+  "word": "Esoteric",
+  "translate": "אֵזוֹטֶרִי"
+ },
+ {
+  "word": "Espouse",
+  "translate": "לְאַמֵץ"
+ },
+ {
+  "word": "Esteem",
+  "translate": "הַעֲרָכָה"
+ },
+ {
+  "word": "Estimable",
+  "translate": "רָאוּי לְהַעֳרָכָה"
+ },
+ {
+  "word": "Estrange",
+  "translate": "לְהִתְנַכֵּר"
+ },
+ {
+  "word": "Ethereal",
+  "translate": "שְׁמֵימִי"
+ },
+ {
+  "word": "Ethical",
+  "translate": "אֶתִי"
+ },
+ {
+  "word": "Ethnic",
+  "translate": "אתני"
+ },
+ {
+  "word": "Etymology",
+  "translate": "אֶטִימוֹלוֹגִיָה"
+ },
+ {
+  "word": "Eulogy",
+  "translate": "הֶספֵּד"
+ },
+ {
+  "word": "Euphemism",
+  "translate": "לָשׁוֹן נְקִיָה"
+ },
+ {
+  "word": "Euphony",
+  "translate": "אופוניה"
+ },
+ {
+  "word": "Euphoria",
+  "translate": "הַרגָשָׁה טוֹבָה"
+ },
+ {
+  "word": "Evanescent",
+  "translate": "חוֹלֵף"
+ },
+ {
+  "word": "Evince",
+  "translate": "הִפְגִּין"
+ },
+ {
+  "word": "Evocative",
+  "translate": "מעורר"
+ },
+ {
+  "word": "Exacerbate",
+  "translate": "לְהַחרִיף"
+ },
+ {
+  "word": "Exalt",
+  "translate": "לְרוֹמֵם"
+ },
+ {
+  "word": "Exasperate",
+  "translate": "מרגיז"
+ },
+ {
+  "word": "Excavate",
+  "translate": "לַחפּוֹר"
+ },
+ {
+  "word": "Exceed",
+  "translate": "עולה על"
+ },
+ {
+  "word": "Excise",
+  "translate": "בְּלוֹ"
+ },
+ {
+  "word": "Exclaim",
+  "translate": "קרא"
+ },
+ {
+  "word": "Excoriate",
+  "translate": "הסיר את העור"
+ },
+ {
+  "word": "Exculpate",
+  "translate": "תסלחו"
+ },
+ {
+  "word": "Exemplary",
+  "translate": "מוֹפְתִי"
+ },
+ {
+  "word": "Exemplify",
+  "translate": "לְהַדגִים"
+ },
+ {
+  "word": "Exempt",
+  "translate": "לִפְטוֹר"
+ },
+ {
+  "word": "Exhilarate",
+  "translate": "לְשַׂמֵחַ"
+ },
+ {
+  "word": "Exhort",
+  "translate": "לְהַטִיף"
+ },
+ {
+  "word": "Exigency",
+  "translate": "דרישות"
+ },
+ {
+  "word": "Existential",
+  "translate": "קיומי"
+ },
+ {
+  "word": "Exonerate",
+  "translate": "לְטַהֵר"
+ },
+ {
+  "word": "Exorbitant",
+  "translate": "מוּפקָע"
+ },
+ {
+  "word": "Exotic",
+  "translate": "אקזוטי"
+ },
+ {
+  "word": "Expedient",
+  "translate": "אֶמְצָעִי"
+ },
+ {
+  "word": "Expedite",
+  "translate": "לְזַרֵז"
+ },
+ {
+  "word": "Expeditious",
+  "translate": "זריז"
+ },
+ {
+  "word": "Explicate",
+  "translate": "הסבר"
+ },
+ {
+  "word": "Exploit",
+  "translate": "לְנַצֵל"
+ },
+ {
+  "word": "Expository",
+  "translate": "מַסבִּיר"
+ },
+ {
+  "word": "Exquisite",
+  "translate": "מְעוּדָן"
+ },
+ {
+  "word": "Extant",
+  "translate": "קַיָם"
+ },
+ {
+  "word": "Extol",
+  "translate": "לְהַלֵל"
+ },
+ {
+  "word": "Extort",
+  "translate": "לִסְחוֹט"
+ },
+ {
+  "word": "Extraneous",
+  "translate": "חִיצוֹנִי"
+ },
+ {
+  "word": "Extrapolate",
+  "translate": "לְחַיֵץ"
+ },
+ {
+  "word": "Extravagant",
+  "translate": "בזבזני"
+ },
+ {
+  "word": "Extricate",
+  "translate": "לְחַלֵץ"
+ },
+ {
+  "word": "Exuberant",
+  "translate": "צוֹהֵל"
+ },
+ {
+  "word": "Exude",
+  "translate": "לְהַפְרִישׁ"
+ },
+ {
+  "word": "Exult",
+  "translate": "לָשִׂישׂ"
+ },
+ {
+  "word": "Eye-opening",
+  "translate": "פוקח עיניים"
+ }
+]
+}
