@@ -1,5 +1,4 @@
-{
-"A":[
+[
  {
   "word": "Abate",
   "translate": "לְשַׁכֵּך"
@@ -499,9 +498,7 @@
  {
   "word": "Azure",
   "translate": "צבע תכלת"
- }
-],
-"B":[
+ },
  {
   "word": "Babble",
   "translate": "פִּטפּוּט"
@@ -1185,9 +1182,7 @@
  {
   "word": "Byzantine",
   "translate": "ביזנטי"
- }
-],
-"C":[
+ },
  {
   "word": "Cadence",
   "translate": "קֶצֶב"
@@ -1747,9 +1742,7 @@
  {
   "word": "Cynic",
   "translate": "צִינִיקָן"
- }
-],
-"D":[
+ },
  {
   "word": "Daunt",
   "translate": "להפחיד"
@@ -2305,9 +2298,7 @@
  {
   "word": "Don",
   "translate": "דוֹן"
- }
-],
-"E":[
+ },
  {
   "word": "Ebullient",
   "translate": "תוֹסֵס"
@@ -2857,4 +2848,3 @@
   "translate": "פוקח עיניים"
  }
 ]
-}
